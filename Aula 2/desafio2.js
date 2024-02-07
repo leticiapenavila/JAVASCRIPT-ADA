@@ -6,5 +6,5 @@ console.log(notas[2])
 
 console.log(notas.length)
 
-const notasTotal = notas[0] + notas [1] + notas [2] / notas.length
+const notasTotal = (notas[0] + notas[1] + notas[2]) / notas.length
 console.log(notasTotal)
